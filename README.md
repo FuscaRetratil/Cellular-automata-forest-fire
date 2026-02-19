@@ -15,7 +15,7 @@ A simulação confirma o limiar crítico de percolação ($\rho_c \approx 0.59$)
 ## 🚀 Como Rodar
 
 O código foi desenvolvido em Jupyter Notebook. 
-1. Acesse o arquivo `[SEU_ARQUIVO].ipynb` neste repositório.
+1. Acesse o arquivo `[Floresta_Autômatos_Celulares].ipynb` neste repositório.
 2. Clique no botão "Open in Colab" (se aparecer) ou baixe para rodar localmente.
 
 Dependências:
