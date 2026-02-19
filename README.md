@@ -25,7 +25,7 @@ Dependências:
 ## Artigo Científico
 
 O relatório técnico completo segue as normas exigidas e explica a correlação com o **Tipping Point da Amazônia**.
-
-![Artigo completo](main_tex.pdf)
+---
+[Artigo completo](main_tex.pdf)
 ---
 **Autor:** Hivison Santos Silva
