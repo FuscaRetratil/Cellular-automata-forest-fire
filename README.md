@@ -1,4 +1,4 @@
-#Simulação de Incêndio Florestal & Regeneração (Autômatos Celulares)
+# Simulação de Incêndio Florestal & Regeneração (Autômatos Celulares)
 
 Projeto desenvolvido no **Google Colab** para a disciplina de **Computação Biológica (UFRPE)**. Implementação de um modelo estocástico para simular a dinâmica de queimadas e sucessão ecológica, demonstrando o fenômeno de **Transição de Fase** e **Percolação**.
 
@@ -22,7 +22,7 @@ Dependências:
 * Numpy
 * Matplotlib
 
-## 📄 Artigo Científico
+## Artigo Científico
 
 O relatório técnico completo segue as normas exigidas e explica a correlação com o **Tipping Point da Amazônia**.
 ![Artigo completo](main_tex.pdf)
